@@ -1,0 +1,9 @@
+C:\Users\sonha\source\repos\Typing Trainning Game\bin\Debug\Typing Trainning Game.exe
+C:\Users\sonha\source\repos\Typing Trainning Game\bin\Debug\Typing Trainning Game.pdb
+C:\Users\sonha\source\repos\Typing Trainning Game\obj\Debug\Typing Trainning Game.csprojAssemblyReference.cache
+C:\Users\sonha\source\repos\Typing Trainning Game\obj\Debug\Typing_Trainning_Game.Form1.resources
+C:\Users\sonha\source\repos\Typing Trainning Game\obj\Debug\Typing_Trainning_Game.Properties.Resources.resources
+C:\Users\sonha\source\repos\Typing Trainning Game\obj\Debug\Typing Trainning Game.csproj.GenerateResource.cache
+C:\Users\sonha\source\repos\Typing Trainning Game\obj\Debug\Typing Trainning Game.csproj.CoreCompileInputs.cache
+C:\Users\sonha\source\repos\Typing Trainning Game\obj\Debug\Typing Trainning Game.exe
+C:\Users\sonha\source\repos\Typing Trainning Game\obj\Debug\Typing Trainning Game.pdb
