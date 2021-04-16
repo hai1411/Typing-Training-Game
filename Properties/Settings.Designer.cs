@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Typing_Trainning_Game.Properties
+namespace WindowsFormsApp1.Properties
 {
 
 

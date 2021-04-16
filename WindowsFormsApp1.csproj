@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4A1B73BB-B179-4DCF-9EF8-CE1F4B6A8EC9}</ProjectGuid>
+    <ProjectGuid>{5519FBCB-552D-483E-B10D-E318DB6B5A58}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Typing_Trainning_Game</RootNamespace>
-    <AssemblyName>Typing Trainning Game</AssemblyName>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -56,18 +56,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Resources.resx</DependentUpon>
-    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -76,8 +76,21 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\412983.png" />
+  </ItemGroup>
+  <ItemGroup>
     <None Include="Resources\favpng_heart-clip-art.png" />
+  </ItemGroup>
+  <ItemGroup>
     <None Include="Resources\favpng_heart-clip-art1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\toppng.com-free-png-the-black-hole-in-space-png-images-transparent-transparent-black-hole-300x299.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngaaa.com-1644377.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngaaa.com-16443771.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Typing_Trainning_Game.Properties {
+namespace WindowsFormsApp1.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace Typing_Trainning_Game.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Typing_Trainning_Game.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("WindowsFormsApp1.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -65,7 +65,7 @@ namespace Typing_Trainning_Game.Properties {
         /// </summary>
         internal static System.Drawing.Bitmap _412983 {
             get {
-                object obj = ResourceManager.GetObject("_412983", resourceCulture);
+                object obj = ResourceManager.GetObject("412983", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -75,7 +75,7 @@ namespace Typing_Trainning_Game.Properties {
         /// </summary>
         internal static System.Drawing.Bitmap favpng_heart_clip_art {
             get {
-                object obj = ResourceManager.GetObject("favpng_heart_clip_art", resourceCulture);
+                object obj = ResourceManager.GetObject("favpng_heart-clip-art", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -85,7 +85,38 @@ namespace Typing_Trainning_Game.Properties {
         /// </summary>
         internal static System.Drawing.Bitmap favpng_heart_clip_art1 {
             get {
-                object obj = ResourceManager.GetObject("favpng_heart_clip_art1", resourceCulture);
+                object obj = ResourceManager.GetObject("favpng_heart-clip-art1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pngaaa_com_1644377 {
+            get {
+                object obj = ResourceManager.GetObject("pngaaa.com-1644377", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pngaaa1 {
+            get {
+                object obj = ResourceManager.GetObject("pngaaa1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap toppng_com_free_png_the_black_hole_in_space_png_images_transparent_transparent_black_hole_300x299 {
+            get {
+                object obj = ResourceManager.GetObject("toppng.com-free-png-the-black-hole-in-space-png-images-transparent-transparent-bl" +
+                        "ack-hole-300x299", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
